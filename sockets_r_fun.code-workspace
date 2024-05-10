@@ -1,0 +1,42 @@
+{
+  "folders": [
+    {
+      "name": "client",
+      "path": "client"
+    },
+    {
+      "name": "server",
+      "path": "server"
+    },
+    {
+      "name": ".github",
+      "path": ".github"
+    },
+    {
+      "name": "sockets_r_fun",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#a8bbde",
+      "activityBar.background": "#a8bbde",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#c25d81",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "commandCenter.border": "#15202b99",
+      "sash.hoverBorder": "#a8bbde",
+      "statusBar.background": "#839ed0",
+      "statusBar.foreground": "#15202b",
+      "statusBarItem.hoverBackground": "#5e81c2",
+      "statusBarItem.remoteBackground": "#839ed0",
+      "statusBarItem.remoteForeground": "#15202b",
+      "titleBar.activeBackground": "#839ed0",
+      "titleBar.activeForeground": "#15202b",
+      "titleBar.inactiveBackground": "#839ed099",
+      "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#839ed0"
+  }
+}
